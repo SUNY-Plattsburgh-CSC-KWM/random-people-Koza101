@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Q-FBZ1c5)
 Your challenge is to create something that looks like this:
 
 <img width="926" height="1073" alt="2024-03-21 22_56_41-JQuerySample" src="https://github.com/user-attachments/assets/b1ca4764-74c3-417e-8300-141124a46a5f" />
